@@ -1,0 +1,13 @@
+Total Students: 2
+Roll: 101
+Name: Aniqa
+Balance: 80
+Issued Book Index: -1
+Issue Date: 0
+-----------------------------
+Roll: 123
+Name: ali
+Balance: 0
+Issued Book Index: -1
+Issue Date: 0
+-----------------------------
